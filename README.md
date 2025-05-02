@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @csyg1733
-- 👀 I’m interested in Golang.
-- 🌱 I’m currently learning LGIA
-- 💞️ I’m looking to collaborate on Golang projects.
+- Hey there! I'm a newbie in programming. The open - source world has always intrigued me. Even though I've just started my coding journey, I'm diving deep into learning languages like Python and Golang. I dream of the day when I can contribute my code to this amazing open - source community. Let's code and grow together!
 - 📫 How to reach me csyg.ai@outlook.com
 
 I'm excited to share my fascinating journey with coding.
